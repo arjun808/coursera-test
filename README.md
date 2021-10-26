@@ -1,2 +1,1 @@
-# coursera-test
-Coursera test repository
+Sample restaurant page created with HTML5, CSS3 and Javascript
